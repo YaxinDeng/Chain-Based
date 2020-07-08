@@ -60,39 +60,6 @@ float Data_nonvol::read(int index){
   }
 }
 
-/*
-
-// Constructor. Allocates nonvolatile data array size.
-Nonvol_data_mtx::Nonvol_data_mtx(int row, int col){
-  row = ROW;
-  col = COL;
-  //arbitrary size allocatation of matrix to represent limited nonvolatile memory
-	matrix.resize(row, vector<int>(col));
-}
-
-//Destructor. Deletes the vector array.
-Nonvol_data_mtx::~Nonvol_data_mtx(){
-  this->matrix.clear();
-  vector<vector<int> >().swap(this->matrix);
-}
-
-//class method to retrieve object's matrix contents attribute (via A(i,j) format) 
-int& Nonvol_data_mtx::operator()(const int &row_num, const int &col_num) {
-	return this->matrix[row_num][col_num];
-}
-
-//Inserts or updates an element of the Matrix.
-void Nonvol_data_mtx::set(int row_num, int col_num, float value){
-  matrix[row_num][col_num] = value;
-}
-
-//Retrieves the element of the Matrix.
-float Nonvol_data_mtx::get(int row_num, int col_num){
-  return matrix[row_num][col_num];
-}
-
-*/
-
 // Constructor of Task class.
 Task::Task(int model_idx, int task_idx){
   //init model index and task index for Task class
