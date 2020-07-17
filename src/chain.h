@@ -1,12 +1,16 @@
 #include <iostream>
-#include <map>
 #include <vector>
 #include <time.h>
 #include <random>
 #include <cstdlib>
 #include <ctime>
+#include <fstream>
+#include <unistd.h>
+#include <tuple>
+#include <stdarg.h>
+#include <string>
 
-#define ROW 5   //total number of tasks + 1 
+#define ROW 9   //total number of tasks + 1 
 #define COL 10  //total number of data members that we will record (per vector)
 
 #define NUM 3  //how many time to measure temperature
@@ -43,10 +47,10 @@ class Data_nonvol{
     Data *getHead(){
       return this->head;
     }
+    int length;
     void set(int index, float value);   //add value of Data type to list at index 
     float read(int index);              //read value of Data type from list at index
 };
-
 
 // Task class that represents linked list of tasks. Task class is a doubly linked list
 // that includes set_origin functions, which have access to Class Data_nonvol
@@ -55,18 +59,25 @@ class Task{
     Task(int model_idx, int task_idx);
     ~Task();
 
+    std::string data_str = "";
+
     //model_index used to determine model type: index=0 (temperature), index=1 (water), 
     //index=2 (humidity)
     int model_index;
+
     //task_index used for task type: index=0 (sensor raw), index=1 (sensor avg), 
     //index=2 (sensor io)
     int task_index;
+
     //returns variables origin_model (stored in nonvolatile memory)
     int get_origin_model();
+
     //returns variables origin_task (stored in nonvolatile memory)
     int get_origin_task();
+
     //sets variables origin_model and origin_task and stores into nonvolatile memory
     void set_origin(int model_idx, int task_idx);
+
     // Operator() function of Task class. Determines function (Task) to execute 
     // based off of task_idx provided.
     void operator()(int model_idx, int task_idx);
@@ -75,13 +86,16 @@ class Task{
     void sensor_RAW(int model_type); //task 1
     void sensor_AVG(int model_type); //task 2
     void sensor_IO(int model_type);   //taks 3
-  
-    //read nonvolatile data structure (matrix) and allow access to data of matrix based 
-    //on model_idx (i.e. set model_idx to index of PREVIOUS task)
- 		Data_nonvol Ch_read(int model_idx, int task_idx, float Data_Index_Table[][100]);
-    
-    //write to nonvolatile data structure (matrix) and allow access to data of 
-    //matrix based on model_idx (i.e. set model_idx to index of NEXT task)
-    void Ch_write(int model_idx, int task_idx, float Data_Index_Table[][100]); 
 
+    //write to output file "results.txt"
+    void wr2file(std::string words);
 };
+
+//read one time of the data set
+void data_read(int x_row);
+
+//read the most recent many times of datas
+void Chsync(int most_recent_many);
+
+//sync the require position data to the same value
+void MultiOut(double count, ...);

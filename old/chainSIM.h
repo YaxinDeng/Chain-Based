@@ -10,6 +10,7 @@
 
 //contains matrix and vector classes
 #include "src_new/chain.h"
+#include "src_new/timer.h"
 
 using namespace std;
 

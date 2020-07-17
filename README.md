@@ -1,10 +1,18 @@
 # Chain-IC
 Chain-based simulating environment and debugging tools for Intermittent devices.
 
-include chainlib library under link https://github.com/CMUAbstract/libchain
+# Project Topic
+Chain-based simulating environment and debugging tools for Intermittent devices.
 
-chain-base statements inside chainlib will be seperate to two basis: 
-tasked-base statements -> control flow for the tasks
-channel-base statements -> non-volatile memory write/read
+# Team Members
+* Yaxin Deng | yaxinden@usc.edu | 4704-0648-15
+* Eric Escudero | eescuder@usc.edu | 6006-5413-51
+* Miguel Gallegos | gall562@usc.edu | 8771-8879-36
 
-the basic command line can be access follow by the table1 in reference paper: Chain: Tasks and Channels for Reliable Intermittent Programs
+# Project Information:
+- Detect the environment for an agriculture system
+- Recreate the simulation by using C++
+
+# Reference Information:
+* include libchain library package under repo: https://github.com/CMUAbstract/libchain
+* Reference Paper: A. Colin and B. Lucia. 2016. Chain: Tasks and Channels for Reliable Intermittent Programs. In Proceedings of the 2016 ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2016). ACM, New York, NY, USA, 514–530

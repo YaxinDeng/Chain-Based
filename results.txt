@@ -1,0 +1,598 @@
+Executing Sensor RAW Task for Temperature Model
+Setting Origin Task to sensor_AVG() for Temperature Model
+New origin model is: 0
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Temperature Model
+Setting Origin Task to sensor_IO() for Temperature Model
+New origin model is: 0
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 57.990612 | 80.280853 | 60.845036
+---------------------------------------
+Executing Sensor IO Task for Temperature Model
+Average data read from non-volatile memory is: 66.372169
+**data too low**
+Setting Origin Task to sensor_RAW() for Water Model
+New origin model is: 1
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Water Model
+Setting Origin Task to sensor_AVG() for Water Model
+New origin model is: 1
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Water Model
+Setting Origin Task to sensor_IO() for Water Model
+New origin model is: 1
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 12.093601 | 5.301159 | 48.146919
+---------------------------------------
+Executing Sensor IO Task for Water Model
+Average data read from non-volatile memory is: 21.847227
+**data good**
+Setting Origin Task to sensor_RAW() for Humidity Model
+New origin model is: 2
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Humidity Model
+Setting Origin Task to sensor_AVG() for Humidity Model
+New origin model is: 2
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Humidity Model
+Setting Origin Task to sensor_IO() for Humidity Model
+New origin model is: 2
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 46.534409 | 16.223927 | 50.555771
+---------------------------------------
+Executing Sensor IO Task for Humidity Model
+Average data read from non-volatile memory is: 37.771366
+**data good**
+Setting Origin Task to sensor_RAW() for Temperature Model
+New origin model is: 0
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Temperature Model
+Setting Origin Task to sensor_AVG() for Temperature Model
+New origin model is: 0
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Temperature Model
+Setting Origin Task to sensor_IO() for Temperature Model
+New origin model is: 0
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 72.301498 | 76.130142 | 68.556458
+---------------------------------------
+Executing Sensor IO Task for Temperature Model
+Average data read from non-volatile memory is: 72.329369
+**data too low**
+Setting Origin Task to sensor_RAW() for Water Model
+New origin model is: 1
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Water Model
+Setting Origin Task to sensor_AVG() for Water Model
+New origin model is: 1
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Water Model
+Setting Origin Task to sensor_IO() for Water Model
+New origin model is: 1
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 38.112930 | 29.195948 | 2.866219
+---------------------------------------
+Executing Sensor IO Task for Water Model
+Average data read from non-volatile memory is: 23.391699
+**data good**
+Setting Origin Task to sensor_RAW() for Humidity Model
+New origin model is: 2
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Humidity Model
+Setting Origin Task to sensor_AVG() for Humidity Model
+New origin model is: 2
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Humidity Model
+Setting Origin Task to sensor_IO() for Humidity Model
+New origin model is: 2
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 5.866341 | 25.500179 | 19.789215
+---------------------------------------
+Executing Sensor IO Task for Humidity Model
+Average data read from non-volatile memory is: 17.051912
+**data too low**
+Setting Origin Task to sensor_RAW() for Temperature Model
+New origin model is: 0
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Temperature Model
+Setting Origin Task to sensor_AVG() for Temperature Model
+New origin model is: 0
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Temperature Model
+Setting Origin Task to sensor_IO() for Temperature Model
+New origin model is: 0
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 92.919868 | 69.651558 | 99.184975
+---------------------------------------
+Executing Sensor IO Task for Temperature Model
+Average data read from non-volatile memory is: 87.252136
+**data too low**
+Setting Origin Task to sensor_RAW() for Water Model
+New origin model is: 1
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+
+***POWER FAILURE***
+Executing Sensor RAW Task for Water Model
+Setting Origin Task to sensor_AVG() for Water Model
+New origin model is: 1
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Water Model
+Setting Origin Task to sensor_IO() for Water Model
+New origin model is: 1
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 45.426796 | 51.766106 | 11.749397
+---------------------------------------
+Executing Sensor IO Task for Water Model
+Average data read from non-volatile memory is: 36.314098
+**data good**
+Setting Origin Task to sensor_RAW() for Humidity Model
+New origin model is: 2
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Humidity Model
+Setting Origin Task to sensor_AVG() for Humidity Model
+New origin model is: 2
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Humidity Model
+Setting Origin Task to sensor_IO() for Humidity Model
+New origin model is: 2
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 59.032463 | 41.933891 | 60.914669
+---------------------------------------
+Executing Sensor IO Task for Humidity Model
+Average data read from non-volatile memory is: 53.960342
+**data too high**
+Setting Origin Task to sensor_RAW() for Temperature Model
+New origin model is: 0
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Temperature Model
+Setting Origin Task to sensor_AVG() for Temperature Model
+New origin model is: 0
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Temperature Model
+Setting Origin Task to sensor_IO() for Temperature Model
+New origin model is: 0
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 94.559563 | 50.053776 | 89.087158
+---------------------------------------
+Executing Sensor IO Task for Temperature Model
+Average data read from non-volatile memory is: 77.900169
+**data too low**
+Setting Origin Task to sensor_RAW() for Water Model
+New origin model is: 1
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Water Model
+Setting Origin Task to sensor_AVG() for Water Model
+New origin model is: 1
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Water Model
+Setting Origin Task to sensor_IO() for Water Model
+New origin model is: 1
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 29.224056 | 9.653271 | 23.241611
+---------------------------------------
+Executing Sensor IO Task for Water Model
+Average data read from non-volatile memory is: 20.706312
+**data good**
+Setting Origin Task to sensor_RAW() for Humidity Model
+New origin model is: 2
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Humidity Model
+Setting Origin Task to sensor_AVG() for Humidity Model
+New origin model is: 2
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Humidity Model
+Setting Origin Task to sensor_IO() for Humidity Model
+New origin model is: 2
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 49.277786 | 25.371342 | 33.299900
+---------------------------------------
+Executing Sensor IO Task for Humidity Model
+Average data read from non-volatile memory is: 35.983006
+**data good**
+Setting Origin Task to sensor_RAW() for Temperature Model
+New origin model is: 0
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Temperature Model
+Setting Origin Task to sensor_AVG() for Temperature Model
+New origin model is: 0
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Temperature Model
+Setting Origin Task to sensor_IO() for Temperature Model
+New origin model is: 0
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 75.320847 | 51.361248 | 85.374161
+---------------------------------------
+Executing Sensor IO Task for Temperature Model
+Average data read from non-volatile memory is: 70.685417
+**data too low**
+Setting Origin Task to sensor_RAW() for Water Model
+New origin model is: 1
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Water Model
+Setting Origin Task to sensor_AVG() for Water Model
+New origin model is: 1
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Water Model
+Setting Origin Task to sensor_IO() for Water Model
+New origin model is: 1
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 13.718540 | 28.395304 | 13.805172
+---------------------------------------
+Executing Sensor IO Task for Water Model
+Average data read from non-volatile memory is: 18.639673
+**data too low**
+Setting Origin Task to sensor_RAW() for Humidity Model
+New origin model is: 2
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+
+***POWER FAILURE***
+Executing Sensor RAW Task for Humidity Model
+Setting Origin Task to sensor_AVG() for Humidity Model
+New origin model is: 2
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Humidity Model
+Setting Origin Task to sensor_IO() for Humidity Model
+New origin model is: 2
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 41.983997 | 7.592941 | 50.167969
+---------------------------------------
+Executing Sensor IO Task for Humidity Model
+Average data read from non-volatile memory is: 33.248302
+**data good**
+Setting Origin Task to sensor_RAW() for Temperature Model
+New origin model is: 0
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Temperature Model
+Setting Origin Task to sensor_AVG() for Temperature Model
+New origin model is: 0
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Temperature Model
+Setting Origin Task to sensor_IO() for Temperature Model
+New origin model is: 0
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 82.377083 | 59.613773 | 54.048676
+---------------------------------------
+Executing Sensor IO Task for Temperature Model
+Average data read from non-volatile memory is: 65.346512
+**data too low**
+Setting Origin Task to sensor_RAW() for Water Model
+New origin model is: 1
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Water Model
+Setting Origin Task to sensor_AVG() for Water Model
+New origin model is: 1
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Water Model
+Setting Origin Task to sensor_IO() for Water Model
+New origin model is: 1
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 55.814682 | 3.040379 | 28.440279
+---------------------------------------
+Executing Sensor IO Task for Water Model
+Average data read from non-volatile memory is: 29.098448
+**data good**
+Setting Origin Task to sensor_RAW() for Humidity Model
+New origin model is: 2
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Humidity Model
+Setting Origin Task to sensor_AVG() for Humidity Model
+New origin model is: 2
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Humidity Model
+Setting Origin Task to sensor_IO() for Humidity Model
+New origin model is: 2
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 63.976089 | 56.545029 | 23.574116
+---------------------------------------
+Executing Sensor IO Task for Humidity Model
+Average data read from non-volatile memory is: 48.031742
+**data good**
+Setting Origin Task to sensor_RAW() for Temperature Model
+New origin model is: 0
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Temperature Model
+Setting Origin Task to sensor_AVG() for Temperature Model
+New origin model is: 0
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Temperature Model
+Setting Origin Task to sensor_IO() for Temperature Model
+New origin model is: 0
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 55.488369 | 82.555351 | 96.791435
+---------------------------------------
+Executing Sensor IO Task for Temperature Model
+Average data read from non-volatile memory is: 78.278381
+**data too low**
+Setting Origin Task to sensor_RAW() for Water Model
+New origin model is: 1
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Water Model
+Setting Origin Task to sensor_AVG() for Water Model
+New origin model is: 1
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Water Model
+Setting Origin Task to sensor_IO() for Water Model
+New origin model is: 1
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 58.798618 | 32.537895 | 56.214249
+---------------------------------------
+Executing Sensor IO Task for Water Model
+Average data read from non-volatile memory is: 49.183590
+**data too high**
+Setting Origin Task to sensor_RAW() for Humidity Model
+New origin model is: 2
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Humidity Model
+Setting Origin Task to sensor_AVG() for Humidity Model
+New origin model is: 2
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Humidity Model
+Setting Origin Task to sensor_IO() for Humidity Model
+New origin model is: 2
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 53.320404 | 2.055611 | 6.845432
+---------------------------------------
+Executing Sensor IO Task for Humidity Model
+Average data read from non-volatile memory is: 20.740482
+**data too low**
+Setting Origin Task to sensor_RAW() for Temperature Model
+New origin model is: 0
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+
+***POWER FAILURE***
+Executing Sensor RAW Task for Temperature Model
+Setting Origin Task to sensor_AVG() for Temperature Model
+New origin model is: 0
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Temperature Model
+Setting Origin Task to sensor_IO() for Temperature Model
+New origin model is: 0
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 57.454010 | 86.666710 | 73.011978
+---------------------------------------
+Executing Sensor IO Task for Temperature Model
+Average data read from non-volatile memory is: 72.377571
+**data too low**
+Setting Origin Task to sensor_RAW() for Water Model
+New origin model is: 1
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Water Model
+Setting Origin Task to sensor_AVG() for Water Model
+New origin model is: 1
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Water Model
+Setting Origin Task to sensor_IO() for Water Model
+New origin model is: 1
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 37.487583 | 14.385078 | 29.247877
+---------------------------------------
+Executing Sensor IO Task for Water Model
+Average data read from non-volatile memory is: 27.040178
+**data good**
+Setting Origin Task to sensor_RAW() for Humidity Model
+New origin model is: 2
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Humidity Model
+Setting Origin Task to sensor_AVG() for Humidity Model
+New origin model is: 2
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Humidity Model
+Setting Origin Task to sensor_IO() for Humidity Model
+New origin model is: 2
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 23.259335 | 32.787548 | 67.250374
+---------------------------------------
+Executing Sensor IO Task for Humidity Model
+Average data read from non-volatile memory is: 41.099087
+**data good**
+Setting Origin Task to sensor_RAW() for Temperature Model
+New origin model is: 0
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Temperature Model
+Setting Origin Task to sensor_AVG() for Temperature Model
+New origin model is: 0
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Temperature Model
+Setting Origin Task to sensor_IO() for Temperature Model
+New origin model is: 0
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 78.118118 | 53.408245 | 53.459511
+---------------------------------------
+Executing Sensor IO Task for Temperature Model
+Average data read from non-volatile memory is: 61.661957
+**data too low**
+Setting Origin Task to sensor_RAW() for Water Model
+New origin model is: 1
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Water Model
+Setting Origin Task to sensor_AVG() for Water Model
+New origin model is: 1
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Water Model
+Setting Origin Task to sensor_IO() for Water Model
+New origin model is: 1
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 16.742863 | 42.942398 | 15.687943
+---------------------------------------
+Executing Sensor IO Task for Water Model
+Average data read from non-volatile memory is: 25.124399
+**data good**
+Setting Origin Task to sensor_RAW() for Humidity Model
+New origin model is: 2
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Humidity Model
+Setting Origin Task to sensor_AVG() for Humidity Model
+New origin model is: 2
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Humidity Model
+Setting Origin Task to sensor_IO() for Humidity Model
+New origin model is: 2
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 25.201481 | 45.216591 | 21.849705
+---------------------------------------
+Executing Sensor IO Task for Humidity Model
+Average data read from non-volatile memory is: 30.755926
+**data good**
+Setting Origin Task to sensor_RAW() for Temperature Model
+New origin model is: 0
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+Executing Sensor RAW Task for Temperature Model
+Setting Origin Task to sensor_AVG() for Temperature Model
+New origin model is: 0
+New origin task is: 1
+New Origin Task Set!
+---------------------------------------
+Executing Sensor AVG Task for Temperature Model
+Setting Origin Task to sensor_IO() for Temperature Model
+New origin model is: 0
+New origin task is: 2
+New Origin Task Set!
+Raw data is: 91.701294 | 77.994774 | 55.996239
+---------------------------------------
+Executing Sensor IO Task for Temperature Model
+Average data read from non-volatile memory is: 75.230774
+**data too low**
+Setting Origin Task to sensor_RAW() for Water Model
+New origin model is: 1
+New origin task is: 0
+New Origin Task Set!
+---------------------------------------
+
+***POWER FAILURE***
+
+***END OF MAIN***
